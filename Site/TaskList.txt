@@ -1,0 +1,7 @@
+Single page site
+1) [ Create layout ]
+2) [ Create views ]
+3) Site logic
+4) Site styles
+
+
